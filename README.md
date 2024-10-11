@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey! i'm dee homak, also aalien, and i made some stuff on the internet. i still do, sometimes.
 
 <!--
 **dhomak/dhomak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
